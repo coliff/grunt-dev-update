@@ -27,8 +27,8 @@
   "dependencies": {
     "async-each-series": "^1.0.0",
     "findup-sync": "^0.2.1",
-    "inquirer": "^0.9.0",
-    "lodash": "^3.9.1",
+    "inquirer": "^0.12.0",
+    "lodash": "^4.17.12",
     "npm-package-arg": "^4.0.1",
     "semver": "^5.0.1"
   },
